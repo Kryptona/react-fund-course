@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.react-fund-course.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\TestRiderProjects\ReactFundCourse\react-fund-course\.idea\.idea.react-fund-course\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
