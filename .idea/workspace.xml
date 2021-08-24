@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a29c20e-da96-427c-a8fa-fe218c778d8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react-fund/src/pages/PostIdPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-fund-course.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-fund/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/react-fund/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-fund/src/API/PostService.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-fund/src/API/PostService.js" afterDir="false" />
+    <list default="true" id="3a29c20e-da96-427c-a8fa-fe218c778d8e" name="Default Changelist" comment="Переходы на страницу поста&#10;Комментарии к посту">
+      <change afterPath="$PROJECT_DIR$/react-fund/src/pages/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-fund/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-fund/src/components/AppRouter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-fund/src/components/AppRouter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-fund/src/components/PostItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-fund/src/components/PostItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-fund/src/components/UI/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-fund/src/components/UI/Navbar/Navbar.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +62,16 @@
       <workItem from="1629756341459" duration="257000" />
       <workItem from="1629756756032" duration="99000" />
       <workItem from="1629789094198" duration="2847000" />
-      <workItem from="1629801743121" duration="1252000" />
+      <workItem from="1629801743121" duration="3726000" />
     </task>
+    <task id="LOCAL-00001" summary="Переходы на страницу поста&#10;Комментарии к посту">
+      <created>1629804261739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629804261739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +88,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Переходы на страницу поста&#10;Комментарии к посту" />
+    <option name="LAST_COMMIT_MESSAGE" value="Переходы на страницу поста&#10;Комментарии к посту" />
   </component>
 </project>
